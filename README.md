@@ -9,17 +9,14 @@ By the time of completion of this project I was quite familiar with the concept 
 
 ## Features
 
-```
-
- Creation of Account
- Updation of Account
- Deletion of Account
- Transfer of Money
- Monthly Charges
- Intrest Rates
- File Handling
+> Creation of Account
+> Updation of Account
+> Deletion of Account
+> Transfer of Money
+> Monthly Charges
+> Intrest Rates
+> File Handling
  
- ```
 
 ## Stand Out Feature
 
